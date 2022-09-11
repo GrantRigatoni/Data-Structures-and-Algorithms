@@ -1,0 +1,1 @@
+Each file contains an algorithm or data structure coded in C++.  Refer to each file's README for more information on each project.
